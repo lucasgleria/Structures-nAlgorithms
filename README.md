@@ -12,14 +12,14 @@
 2. [Objetivos](#-objetivos)  
 3. [Tecnologias](#-tecnologias)  
 4. [Funcionalidades](#-funcionalidades)  
-5. [Pré-requisitos](-#%EF%B8%8F-pré-requisitos)  
-6. [Instalação](-#%EF%B8%8F-instalação)  
+5. [Pré-requisitos](#%EF%B8%8F-pré-requisitos)  
+6. [Instalação](#%EF%B8%8F-instalação)  
 7. [Como utilizar](#-como-utilizar)
 8. [Estrutura do Projeto](#-estrutura-do-projeto)
 9. [Contribuição](#-contribuição)  
 10. [Licença](#-licença)  
 11. [Contato](#-contato)  
-12. [Recursos Adicionais](#-recursos-adicionais)  
+12. [Recursos Adicionais](#-recursos-adicionais) 
 
 
 ## 💻 Sobre o Projeto
