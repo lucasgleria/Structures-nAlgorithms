@@ -61,22 +61,11 @@ Este repositório contém desafios práticos que incluem:
 
 Cada desafio está em sua própria pasta, com o código-fonte e instruções específicas. Para executar um desafio:
 
-1. Clone o repositório:
-
-    ```bash
-    git clone https://github.com/seu-usuario/Structures-nAlgorithms.git
-    ```
-
-2. Navegue até a pasta do desafio desejado:
-
-    ```bash
-    cd Structures-nAlgorithms/01_Busca_Linear
-    ```
-
-3. Leia o arquivo `desafio.md` para entender o desafio
-4. Implemente sua solução
-5. Compare com o gabarito em `gabarito.py`
-
+1. Dê um fork no repositóriio.
+3. Leia o arquivo `desafio.md` para entender o desafio de cada um dos algoritmos.
+4. Crie um novo arquivo na pasta e implemente sua solução.
+5. Compare com o gabarito em `gabarito.py`.
+6. Não esqueça de comentar o código em python com o que você compreendeu do algoritmo.
 
 ## 📂 Estrutura do Projeto
 
@@ -117,12 +106,12 @@ MIT License - Veja [LICENSE](LICENSE) para detalhes.
 
 ## 📞 Contato
 
-  - **Autor**: [Seu Nome](https://github.com/seu-usuario)
-  - **LinkedIn**: [seu-linkedin]
+  - **Autor**: [Lucas Leria](https://github.com/lucasgleria)
+  - **LinkedIn**: [lucasgleria](https://www.linkedin.com/in/lucasleria/)
 
 
 ## 🔍 Recursos Adicionais
 
-  - [Visualização de Algoritmos](https://visualgo.net/)
+  - [Visualização de Algoritmos](https://pythontutor.com)
   - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
   - [Estruturas de Dados e Algoritmos em Python](https://www.python.org/doc/)
