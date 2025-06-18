@@ -57,15 +57,40 @@ Este repositório contém desafios práticos que incluem:
   - ✅ **Algoritmos de Ordenação:** Diversos métodos de ordenação com diferentes complexidades
 
 
+## ⚙️ Pré-requisitos  
+ 
+- Python 
+  > Qualquer versão superir a 3.9
+- Outra linguagem instalada e configurada, caso o aluno for usar
+- Conexão estável à internet  
+
+## 🛠️ Instalação  
+
+1. Dê um fork no repositóriio.
+
+2. Pegue o link do seu repositório após o fork
+
+3. Clone o repositório:
+```bash
+git clone https://github.com/SEU_USUARIO/Structures-nAlgorithms.git
+```
+
+4. Navegue até a pasta do projeto:
+```bash
+cd Structures-nAlgorithms
+``` 
+
 ## ❗ Como Utilizar
 
 Cada desafio está em sua própria pasta, com o código-fonte e instruções específicas. Para executar um desafio:
 
-1. Dê um fork no repositóriio.
-3. Leia o arquivo `desafio.md` para entender o desafio de cada um dos algoritmos.
-4. Crie um novo arquivo na pasta e implemente sua solução.
-5. Compare com o gabarito em `gabarito.py`.
-6. Não esqueça de comentar o código em python com o que você compreendeu do algoritmo.
+1. Leia o arquivo `desafio.md` para entender o desafio de cada um dos algoritmos.
+
+2. Crie um novo arquivo na pasta e implemente sua solução.
+
+3. Compare com o gabarito em `gabarito.py`.
+
+4. Não esqueça de comentar o código em python com o que você compreendeu do algoritmo.
 
 ## 📂 Estrutura do Projeto
 
