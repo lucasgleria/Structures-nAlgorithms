@@ -60,7 +60,7 @@ Este repositório contém desafios práticos que incluem:
 ## ⚙️ Pré-requisitos  
  
 - Python 
-  > Qualquer versão superir a 3.9
+  > Qualquer versão superior a 3.9
 - Outra linguagem instalada e configurada, caso o aluno for usar
 - Conexão estável à internet  
 
@@ -72,6 +72,7 @@ Este repositório contém desafios práticos que incluem:
 
 3. Clone o repositório:
 ```bash
+# Será algo semelhante a:
 git clone https://github.com/SEU_USUARIO/Structures-nAlgorithms.git
 ```
 
