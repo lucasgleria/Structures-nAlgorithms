@@ -1,7 +1,8 @@
 def encontrar_produto_por_id(inventario, id_produto):
   for produto in inventario:
-    if produto['id_produto'] == str(id_produto):
-      return produto
+    if produto['id_produto'] == str(id_produto): #se produto
+      return produto #retorne produto
+    
   return None
 
 inventario = [
