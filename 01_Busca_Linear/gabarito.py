@@ -11,3 +11,8 @@ inventario = [
 
 print(encontrar_produto_por_id(inventario,id_produto="1"))
 print(encontrar_produto_por_id(inventario,id_produto="4"))
+
+
+"""
+Esse script implementa o algoritmo de busca linear, através da função encontrar_produto_por_id
+"""
